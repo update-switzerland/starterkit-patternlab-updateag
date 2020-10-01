@@ -1,0 +1,23 @@
+{
+  "name": "@pattern-lab/starterkit-patternlab-updateag",
+  "version": "0.0.1",
+  "description": "The Mustache-based StarterKit for Pattern Lab from update AG.",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/update-switzerland/starterkit-patternlab-updateag.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Mustache",
+    "Demo",
+    "Starterkit"
+  ],
+  "author": "update AG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/update-switzerland/starterkit-patternlab-updateag/issues"
+  },
+  "homepage": "https://github.com/update-switzerland/starterkit-patternlab-updateag"
+}
