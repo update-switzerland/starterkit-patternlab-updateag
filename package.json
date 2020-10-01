@@ -1,6 +1,6 @@
 {
-  "name": "@pattern-lab/starterkit-patternlab-updateag",
-  "version": "0.0.1",
+  "name": "starterkit-patternlab-updateag",
+  "version": "0.0.2",
   "description": "The Mustache-based StarterKit for Pattern Lab from update AG.",
   "main": "README.md",
   "repository": {
